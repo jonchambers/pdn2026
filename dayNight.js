@@ -23,7 +23,6 @@ function dayScene(){
 	fill(235, 137, 52)
 	noStroke()
 	ellipse(windowWidth/2, windowHeight/2, 100, 100)
-
 	ellipse(200, 300, 50, 50)
 }
 
